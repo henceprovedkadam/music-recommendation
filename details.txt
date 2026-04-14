@@ -1,6 +1,0 @@
-This is project about song recommendation according to user's feelings. 
-use mern tech stack, what tech stack would you suggest for this? 
-The user will be prompted to enter this feelings and a list of songs will be listed below according to its feelings mentioned.
-We can use the basic ollama local model for this 
-So first built the a basic backend based application for which will prompt me to enter feelings and it will hit the api i.e local ollama model and suggest me with a list of musics. 
-Keep the code minimal and clean. 
