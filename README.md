@@ -1,3 +1,6 @@
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/c7ee93cd-f4a5-497f-9d8f-57e627e5e728" />
+
+
 # 🎵 Music AI — Song Recommender
 
 A mood-based music recommendation app powered by a **local Ollama LLM**. Tell the app how you're feeling and it suggests 8 songs that match your vibe — no API keys, no cloud, fully private.
